@@ -1,0 +1,36 @@
+a{
+	color: white;
+}
+.box{
+	text-align: center;
+}
+.block{
+	float: left;
+	width:33.3%;
+	
+	padding:10px;
+	box-sizing: border-box;
+	overflow: hidden;
+
+}
+.block img{
+	height:auto;
+	width:380px;
+}
+
+#block{
+
+	margin-left: 40px;
+	margin-right: 20px;
+	}
+
+.block p{
+	text-align: center;
+}
+ .foot{
+	padding: 20px;
+	margin-top: 0;
+	height: 190px;
+	
+	background-color: rgb(2, 2, 2);
+}
